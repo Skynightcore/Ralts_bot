@@ -3,7 +3,7 @@
 /*/
 
 # Except These
-!/SNCServer.js/
+!/SNCServer/
 !/config/
 !/app.json
 !/.gitignore
