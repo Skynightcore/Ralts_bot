@@ -1,1 +1,13 @@
-logs node_modules
+# Ignore Everything
+/*
+/*/
+
+# Except These
+!/SNCServer.js/
+!/config/
+!/app.json
+!/.gitignore
+!/package
+!/wolfram_plugin
+!/README.md
+!/commands
