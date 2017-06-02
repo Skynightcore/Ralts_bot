@@ -14,7 +14,7 @@ exports.getCurrentPatch		= function() { return version[2]; };
 exports.getLatestVersion = function(callback) {
 
 	// fetch latest version number from GitHub
-	Request("https://raw.githubusercontent.com/SteamingMutt/DougleyBot/master/package.json", function (error, response, body) {
+	Request("https://raw.githubusercontent.com/Skynightcore/Ralts_bot/master/package.json", function (error, response, body) {
 
 		if (error) { return callback(error, null); } // error handle
 

@@ -1,0 +1,8 @@
+{
+  "name": "MCDbot",
+  "description": "A Minecraft Oriented Discord Bot",
+  "repository": "Raltsbot",
+  "logo": "",
+  "keywords": ["node", "discord", "robot", "minecraft"],
+  "image": ""
+}
